@@ -1,0 +1,6 @@
+@Enum_Conversion_HostAddress = http://localhost:5008
+
+GET {{Enum_Conversion_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
